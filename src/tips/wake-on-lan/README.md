@@ -124,6 +124,6 @@ Für Android empfehlen wir die App [EasyWOL für Android].
 [Wake On LAN]: ../../simple-glossary.md#wakeonlan
 [MAC-Adresse]: ../../simple-glossary.md#mac
 [IP-Adresse]: ../../simple-glossary.md#ip
-[Wake on LAN von AquilaTech]: http://wol.aquilatech.com
+[Wake on LAN von AquilaTech]: https://github.com/basildane/WakeOnLAN/releases/download/2.11.4/WakeOnLAN_2.11.4.exe
 [EasyWOL für Android]: https://play.google.com/store/apps/details?id=easy_wol.mysysadmintips.com.easywol&hl=de
 [EasyWOL für iOS]: https://itunes.apple.com/de/app/easywol/id828429776?mt=8
