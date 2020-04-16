@@ -23,6 +23,8 @@ Unter der Registerkarte `Advanced` wählen Sie `CSM Configuration`. Unter **Boot
 
 # Wake-On-LAN (WOL)
 
+## WoL im BIOS freischalten
+
 Wenn Wake-On-LAN (WOL) gewünscht ist, finden Sie die Einstellung dazu unter der Registerkarte `Advanced` -> `Wake Configuration`.
 
 ![Wake Konfiguration](../../images/BIOS_Giada-F105D_Wake-Configuration.jpg)
@@ -34,6 +36,8 @@ Wenn Wake-On-LAN (WOL) gewünscht ist, finden Sie die Einstellung dazu unter der
 * Drücken Sie `[F10]`, anschließend die `[Eingabetaste]`, um die Einstellungen abzuspeichern und den Rechner neu zu starten.
 
 ![Einstellungen abspeichern und Rechner neustarten](../../images/BIOS_Giada-F105D_Advanced-Wakeup-Config_F10.jpg)
+
+## WoL in Windows freischalten
 
 * Unter Windows in den Einstellungen des LAN-Adapters aktivieren Sie die Eigenschaft **Wake-On-LAN herunterfahren**:
 
