@@ -48,7 +48,7 @@ Im BIOS des Computers muss gegebenenfalls Wake On LAN aktiviert werden. Das Vorg
   
   ![](/images/wake-on-lan-5.png "Das Häkchen "Gerät kann den Computer aus dem Ruhezustand aktivieren" einsetzen")
 
-### 3. Schritt: Programm zum Einschalten einstellen
+### 3. Schritt: Windows zum Herunterfahren einstellen
 
 Um den Rechner aus der Ferne herunterfahren zu können, muss folgender Wert in die Windows-Registrierung des entfernten Rechners eingespielt werden:
 
