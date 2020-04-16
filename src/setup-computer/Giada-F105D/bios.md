@@ -21,7 +21,7 @@ Unter der Registerkarte `Advanced` wählen Sie `CSM Configuration`. Unter **Boot
 
 ![](../../images/BIOS_Giada-F105D_F10_Save_and_Exit.jpg "Einstellungen abspeichern und Rechner neustarten")
 
-## Wake-On-LAN (WOL)
+# Wake-On-LAN (WOL)
 
 Wenn Wake-On-LAN (WOL) gewünscht ist, finden Sie die Einstellung dazu unter der Registerkarte `Advanced` -> `Wake Configuration`.
 
@@ -33,9 +33,13 @@ Wenn Wake-On-LAN (WOL) gewünscht ist, finden Sie die Einstellung dazu unter der
 
 * Drücken Sie `[F10]`, anschließend die `[Eingabetaste]`, um die Einstellungen abzuspeichern und den Rechner neu zu starten.
 
+* Unter Windows in den Einstellungen des LAN-Adapters aktivieren Sie **Wake-On-LAN herunterfahren**:
+
+![](../../images/Wake-On-Lan_herunterfahren.png "Wake-On-Lan herunterfahren aktivieren")
+
 Weitere Informationen zu Wake-On-LAN (WOL) finden Sie [hier](/tips/wake-on-lan/README.md)
 
-## Wake system from RTC
+# Wake system from RTC
 
 Unter dieser Option kann man eine Uhrzeit einstellen, zu der das System täglich hochgefahren wird.
 
