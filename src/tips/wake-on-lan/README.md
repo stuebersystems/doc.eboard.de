@@ -19,7 +19,8 @@ Wake On LAN wird von den meisten modernen Rechnern unterstützt inklusiv alle un
 Im BIOS des Computers muss gegebenenfalls Wake On LAN aktiviert werden. Das Vorgehen kann sich von Computer zu Computer unterscheiden. Meistens befindet sich die Einstellung under einer Registerkarte namens `Power` bzw. `Advanced`. Aktivieren Sie diese Wake On LAN-Option, anschließend speichern und beenden Sie das BIOS-Setup.
 
 > #### primary::Hinweis
-> Falls im BIOS keine Option zur Aktivierung von Wake On LAN vorhanden ist, lesen Sie das Handbuch des Mainboards, um sicher zu sein, dass Wake On LAN unterstützt wird. Für eine genaue Beschreibung der entsprechenden BIOS-Einstellung eines von uns gelieferten Rechner, schauen Sie sich die Seite "BIOS konfigurieren" des entsprechenden Rechners in der linken Navigation an.
+> Für eine genaue Beschreibung der entsprechenden BIOS-Einstellung **eines von uns gelieferten Rechner**, schauen Sie sich die Seite "BIOS konfigurieren" des entsprechenden Rechners in der linken Navigation an. 
+> <br>Falls im BIOS keine Option zur Aktivierung von Wake On LAN vorhanden ist, lesen Sie das Handbuch des Mainboards, um sicher zu sein, dass Wake On LAN unterstützt wird.
 
 ![](/images/BIOS-Giada-i39B-Enable-WOL.png "Wake on LAN aktivieren")
 
@@ -80,6 +81,12 @@ Für iOS empfehlen wir die App [EasyWOL für iOS].
 Für Android empfehlen wir die App [EasyWOL für Android].
 
 ![](/images/EasyWOL.Android.png "EasyWOL für Android")
+
+## Problembehandlung
+
+Sie haben alle Einstellungen sowohl im BIOS als auch in Windows geprüft aber trotzdem lässt der Rechner sich nicht aufwachen? Stellen Sie sicher, dass die von Ihnen in der Software angegebene MAC-Adresse dem Rechner übereinstimmt, der aufwachen soll:
+
+![Die MAC-Adresse stimmt nicht überein](/images/wake-on-lan-probb1.png)
 
 [Wake On LAN]: ../../simple-glossary.md#wakeonlan
 [MAC-Adresse]: ../../simple-glossary.md#mac
