@@ -39,7 +39,7 @@ Wenn Wake-On-LAN (WOL) gewünscht ist, finden Sie die Einstellung dazu unter der
 
 ## WoL in Windows freischalten
 
-* Unter Windows in den Einstellungen des LAN-Adapters aktivieren Sie die Eigenschaft `Wake-On-LAN herunterfahren`:
+* Unter Windows in den Einstellungen des LAN-Adapters aktivieren Sie die Eigenschaft **Wake-On-LAN herunterfahren**:
 
 ![LAN-Adapter "Wake-On-LAN herunterladen" in Windows freischalten](../../images/Wake-On-Lan_herunterfahren.png)
 
