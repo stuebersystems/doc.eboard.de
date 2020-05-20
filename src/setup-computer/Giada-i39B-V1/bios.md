@@ -58,9 +58,11 @@ Wenn Wake-On-LAN (WOL) gewünscht ist, finden Sie die Einstellung dazu unter der
 
 * Drücken Sie `[F10]`, anschließend die `[Eingabetaste]`, um die Einstellungen abzuspeichern und den Rechner neu zu starten.
 
-## S5 RTC Wake
+## Einschalten durch Real Time Clock
 
 Unter dieser Option kann man eine Uhrzeit einstellen, zu der das System täglich hochgefahren wird.
 
-Diese Option befindet sich unter der Registerkarte `[Advanced]` und `[Resume On Lan]`.
+Diese Option befindet sich unter der Registerkarte `[Advanced]` und `[Resume on RTC Alarm]` stellen Sie die gewünschte Uhrzeit ein.
+
+![System wacht täglich um 7 Uhr auf](../../images/BIOS_Giada-i39B_RTC-Wake.png)
 
