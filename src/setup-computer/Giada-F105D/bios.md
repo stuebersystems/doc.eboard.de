@@ -45,7 +45,7 @@ Wenn Wake-On-LAN (WOL) gewünscht ist, finden Sie die Einstellung dazu unter der
 
 Weitere Informationen zu Wake-On-LAN (WOL) finden Sie [hier](/tips/wake-on-lan/README.md)
 
-# Wake system from RTC
+# Einschalten durch Real Time Clock
 
 Unter dieser Option kann man eine Uhrzeit einstellen, zu der das System täglich hochgefahren wird.
 

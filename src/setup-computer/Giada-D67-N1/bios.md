@@ -21,11 +21,11 @@ Unter der Registerkarte `Advanced` wählen Sie `CSM Configuration`. Unter **Boot
 
 ![](../../images/BIOS_Giada-F105D_F10_Save_and_Exit.jpg "Einstellungen abspeichern und Rechner neustarten")
 
-## Wake-On-LAN (WOL)
+# Wake-On-LAN (WOL)
 
 Wenn Wake-On-LAN (WOL) gewünscht ist, muss diese Funktion nur in [Windows](/tips/wake-on-lan/README.md) freigeschaltet werden. Dieser Rechner reagiert auf Wake-On-LAN-Anfragen, trotz fehlender Einstellung im BIOS.
 
-## Wake system from RTC
+# Einschalten durch Real Time Clock
 
 Unter dieser Option kann man eine Uhrzeit einstellen, zu der das System täglich hochgefahren wird.
 
