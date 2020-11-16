@@ -1,4 +1,4 @@
-# Windows 10 Professional \(64 Bit\) Image installieren: IOT-Lizenz
+# Windows 10 Professional \(64 Bit\) Image installieren: IOT-Lizenz (ENT CBB)
 
 > #### info::Modell
 >
@@ -6,7 +6,7 @@
 
 ![](../../images/Giada-F105D-Underpanel_Win10_IOT_ENT_CBB_Entry.png "Giada F105D Unterseite Windows 10 IOT ENT CBB Entry License")
 
-Wenn Ihre Windows-Lizenz `Windows 7 Pro` (Upgrade-Lizenz) lautet, wählen Sie die [entsprechende Anleitung](W10x64_win7upgrade.license.md) für diese Lizenz.
+Wenn Ihre Windows-Lizenz [Windows 7 Pro](W10x64_win7upgrade.license.md) (Upgrade-Lizenz) oder [Windows 10 IOT ENT 2016 LTSB ENTRY](W10x64_win10-IOT-ENT-2016-LTSB-Entry.md) lautet, wählen Sie die entsprechende Anleitung für diese Lizenz.
 
 ## 1. USB-Stick vorbereiten
 
