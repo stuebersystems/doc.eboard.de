@@ -4,9 +4,9 @@
 >
 > Giada F105D \(120GB HD\). Dieses Windows 10 Image muss mit der Windows Lizenz `Windows 10 IOT ENT 2016 LTSB Entry` aktiviert werden. Um zu ermitteln welche Windows 10 Lizenz Sie haben, schauen Sie auf der Rückseite des Rechners.
 
-![](../../images/Giada-F105D-Underpanel_Win10_IOT_ENT_CBB_Entry.png "Giada F105D Unterseite Windows 10 IOT ENT CBB Entry License")
+![](../../images/Giada-F105D-Underpanel_Win10_IOT-ENT-2016-LTSB-Entry.png "Giada F105D Unterseite Windows 10 IoT 2016 ENT LTSB ENTRY")
 
-Wenn Ihre Windows-Lizenz [Windows 7 Pro](W10x64_win7upgrade.license.md) (Upgrade-Lizenz) oder [Windows 10 IOT ENT CBB ENTRY](W10x64_win10-IOT-ENT-CBB-Entry-Licence.md) lautet, wählen Sie die entsprechende Anleitung für diese Lizenz.
+Wenn Ihre Windows-Lizenz [Windows 7 Pro](W10x64_win7upgrade.license.md) (Upgrade-Lizenz) oder [Windows 10 IOT ENT CBB ENTRY](W10x64_win10-IOT-ENT-CBB-Entry.md) lautet, wählen Sie die entsprechende Anleitung für diese Lizenz.
 
 ## 1. USB-Stick vorbereiten
 
@@ -42,7 +42,7 @@ Das Programm öffnet sich. Wählen Sie Ihren USB-Stick aus, suchen Sie die Image
 
 Es erscheint das folgende Menü:
 
-![](../../images/W10x64-Installer-Giada-F105D.jpg "Windows 10 IoT 64Bit Installer")
+![](../../images/W10x64-LTSB-Installer-Giada-F105D.png "Windows 10 IoT 2016 ENT LTSB 64Bit Installer")
 
 * Drücken Sie `[Eingabetaste]`, um fortzufahren.
 

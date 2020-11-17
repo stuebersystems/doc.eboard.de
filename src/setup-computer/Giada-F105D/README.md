@@ -31,6 +31,4 @@ Zubehör               | 1 x AC Adaptor<br>1 x AC Power Cord<br>4 x runde Gummi-
 
 ![](../../images/Giada-F105D-ComPort.jpg "Giada F105D Com-Anschluss")
 
-![](../../images/Giada-F105D-Underpanel_Win7_Upgrade_Licence.png "Giada F105D Unterseite Windows 7 Lizenz")
-
 ![](../../images/Giada-F105D-Underpanel_Win10_IOT_ENT_CBB_Entry.png "Giada F105D Unterseite Windows 10 IOT ENT CBB Entry Lizenz")
