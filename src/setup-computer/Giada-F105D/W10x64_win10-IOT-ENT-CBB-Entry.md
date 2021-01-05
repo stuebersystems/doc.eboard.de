@@ -14,8 +14,8 @@ Wenn Ihre Windows-Lizenz [Windows 7 Pro](W10x64_win7upgrade.license.md) (Upgrade
 >
 > Um dieses Image auf dem Rechner installieren zu können, ist ein USB-Stick mit mindestens 8 GB Speicherplatz nötig.
 
-* Zunächst laden Sie bitte die [Image-Datei](ftp://ftp.stueber.de/pub/bin/de/windowsembedded/usb-images/Giada-F105D-ImageV1-8.img
-  ) und das [CONFIRE USB Image Tool](ftp://ftp.stueber.de/pub/bin/de/windowsembedded/usb-images/CONFIRE-USBImageTool.exe) herunter.
+* Zunächst laden Sie bitte die [Image-Datei](https://download.stueber.de/bin/de/windowsembedded/usb-images/Giada-F105D-ImageV1-8.img
+  ) und das [CONFIRE USB Image Tool](https://download.stueber.de/bin/de/windowsembedded/usb-images/CONFIRE-USBImageTool.exe) herunter.
 
 * Stecken Sie den USB-Stick ein.
 
