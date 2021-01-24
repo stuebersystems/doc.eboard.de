@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/stuebersystems/Websites/_apis/build/status/docs/doc.eboard.de?branchName=master)](https://dev.azure.com/stuebersystems/Websites/_build/latest?definitionId=116&branchName=master)
+
 # CONFIRE E-BOARD Dokumentation
 
 Dies ist die deutsche Dokumentation zu unseren CONFIRE E-BOARD-Produkten. Die Dokumentation ist Open Source und wir haben sie mit [GitBook](https://github.com/GitbookIO/gitbook) realisiert.
