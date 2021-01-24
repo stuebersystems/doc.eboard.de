@@ -1,5 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/tvy3vj4olhmc9haq?svg=true)](https://ci.appveyor.com/project/stueber/doc-eboard-de)
-
 # CONFIRE E-BOARD Dokumentation
 
 Dies ist die deutsche Dokumentation zu unseren CONFIRE E-BOARD-Produkten. Die Dokumentation ist Open Source und wir haben sie mit [GitBook](https://github.com/GitbookIO/gitbook) realisiert.

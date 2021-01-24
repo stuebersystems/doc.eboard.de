@@ -1,0 +1,41 @@
+trigger:
+- master
+pool:
+  vmImage: 'windows-2019'
+steps:
+- task: UseNode@1
+  displayName: 'Prepare Node.js ecosystem'
+  inputs:
+    version: '12.18.2'
+    checkLatest: true
+- task: CmdLine@2
+  displayName: 'Install gitbook-cli'
+  inputs:
+    script: 'npm install -g gitbook-cli'
+    failOnStderr: true
+- task: CmdLine@2
+  displayName: 'Prepare Gitbook ecosystem'
+  inputs:
+    script: gitbook install
+    workingDirectory: 'src'
+    failOnStderr: true
+- task: CmdLine@2
+  displayName: 'Build Gitbook'
+  inputs:
+    script: 'gitbook build'
+    workingDirectory: 'src'
+    failOnStderr: true  
+- task: ArchiveFiles@2
+  displayName: 'Create Zip archive'
+  inputs:
+    rootFolderOrFile: 'src/_book'
+    includeRootFolder: false
+    archiveType: 'zip'
+    archiveFile: '$(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip'
+    replaceExistingArchive: true
+- task: PublishBuildArtifacts@1
+  displayName: 'Publish Zip archive'
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'drop'
+    publishLocation: 'Container'
