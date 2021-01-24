@@ -11,7 +11,7 @@ Um sicherzustellen, dass alle Funktionen des Rechners einschließlich des zeitge
 
 # BIOS-Version auf F5 updaten {#Step-DS563-BIOS-updaten}
 
-* Starten Sie den Rechner. Ist Windows vollständig geladen, laden Sie das BIOS-Flash-Tool [Step-DS563_F5_BIOS.zip](ftp://ftp.stueber.de/pub/bin/de/windowsembedded/Step-DS563_F5_BIOS.zip) auf dem Desktop herunter und extrahieren Sie sie.
+* Starten Sie den Rechner. Ist Windows vollständig geladen, laden Sie das BIOS-Flash-Tool [Step-DS563_F5_BIOS.zip](https://download.stueber.de/bin/de/windowsembedded/Step-DS563_F5_BIOS.zip) auf dem Desktop herunter und extrahieren Sie sie.
 
 * Führen Sie das Flash-Tool aus. 
 

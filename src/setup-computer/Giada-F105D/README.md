@@ -11,7 +11,7 @@ Prozessor             | Intel® Celeron® Prozessor N3450, 4 Cores / 4 Threads 2
 Chipset               | Integriert
 Display               | Intel® HD Graphics 500<br>Microsoft® DirectX® 11.1<br>1 x VGA Port (Max. 1920 x 1200@ 60Hz)<br>1 x DP1.2 1 x DP (Max. 4096 x 2160@ 60Hz)<br>1 x HDMI 1.4b (Max. 4096 x 2160@ 24Hz)
 Hauptspeicher         | 4GB (1x DDR3L-1600MHz) 
-Festplatte            | 120 GB SSD<br>1 x 2.5" SATA Drive Bay ( Max. Height 7.5mm )<br>1 x M.2 (PCIe)<br>1 x mSATAIII 
+Festplatte            | mSATA 128GB SSD
 Audio                 | Realtek ALC662-VD0 1 x MIC-IN,1 x AUDIO OUT
 Ethernet              | 2x Realtek 8111F, Gigabit Ethernet
 Wireless              | Exclusive, optionales IEEE 802.11 b/g/n WLAN-Modul
@@ -30,7 +30,5 @@ Zubehör               | 1 x AC Adaptor<br>1 x AC Power Cord<br>4 x runde Gummi-
 ![](../../images/Giada-F105D-Sidepanel.jpg "Giada F105D Peripheral interfaces")
 
 ![](../../images/Giada-F105D-ComPort.jpg "Giada F105D Com-Anschluss")
-
-![](../../images/Giada-F105D-Underpanel_Win7_Upgrade_Licence.png "Giada F105D Unterseite Windows 7 Lizenz")
 
 ![](../../images/Giada-F105D-Underpanel_Win10_IOT_ENT_CBB_Entry.png "Giada F105D Unterseite Windows 10 IOT ENT CBB Entry Lizenz")

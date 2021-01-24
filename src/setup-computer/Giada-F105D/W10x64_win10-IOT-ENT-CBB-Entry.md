@@ -1,12 +1,12 @@
-# Windows 10 Professional \(64 Bit\) Image installieren: IOT-Lizenz
+# Windows 10 Professional \(64 Bit\) Image installieren: IOT-Lizenz (ENT CBB)
 
 > #### info::Modell
 >
 > Giada F105D \(120GB HD\). Dieses Windows 10 Image muss mit der Windows Lizenz `Windows 10 IOT ENT CBB Entry` aktiviert werden. Um zu ermitteln welche Windows 10 Lizenz Sie haben, schauen Sie auf der Rückseite des Rechners.
 
-![](../../images/Giada-F105D-Underpanel_Win10_IOT_ENT_CBB_Entry.png "Giada F105D Unterseite Windows 10 IOT ENT CBB Entry License")
+![](../../images/Giada-F105D-Underpanel_Win10_IOT_ENT_CBB_Entry.closeup.png "Giada F105D Unterseite Windows 10 IOT ENT CBB Entry License")
 
-Wenn Ihre Windows-Lizenz `Windows 7 Pro` (Upgrade-Lizenz) lautet, wählen Sie die [entsprechende Anleitung](W10x64_win7upgrade.license.md) für diese Lizenz.
+Wenn Ihre Windows-Lizenz [Windows 7 Pro](W10x64_win7upgrade.license.md) (Upgrade-Lizenz) oder [Windows 10 IOT ENT 2016 LTSB ENTRY](W10x64_win10-IOT-ENT-2016-LTSB-Entry.md) lautet, wählen Sie die entsprechende Anleitung für diese Lizenz.
 
 ## 1. USB-Stick vorbereiten
 
@@ -14,8 +14,8 @@ Wenn Ihre Windows-Lizenz `Windows 7 Pro` (Upgrade-Lizenz) lautet, wählen Sie di
 >
 > Um dieses Image auf dem Rechner installieren zu können, ist ein USB-Stick mit mindestens 8 GB Speicherplatz nötig.
 
-* Zunächst laden Sie bitte die [Image-Datei](ftp://ftp.stueber.de/pub/bin/de/windowsembedded/usb-images/Giada-F105D-ImageV1-7.img
-  ) und das [CONFIRE USB Image Tool](ftp://ftp.stueber.de/pub/bin/de/windowsembedded/usb-images/CONFIRE-USBImageTool.exe) herunter.
+* Zunächst laden Sie bitte die [Image-Datei](https://download.stueber.de/bin/de/windowsembedded/usb-images/Giada-F105D-ImageV1-8.img
+  ) und das [CONFIRE USB Image Tool](https://download.stueber.de/bin/de/windowsembedded/usb-images/CONFIRE-USBImageTool.exe) herunter.
 
 * Stecken Sie den USB-Stick ein.
 
@@ -23,7 +23,7 @@ Wenn Ihre Windows-Lizenz `Windows 7 Pro` (Upgrade-Lizenz) lautet, wählen Sie di
 
 ![](../../images/Benutzerkontensteuerung.png "Die Benutzerkontensteuerung")
 
-Das Programm öffnet sich. Wählen Sie Ihren USB-Stick aus, suchen Sie die Image-Datei **Giada-F105D-ImageV1-7.img** per die Schaltfläche `Image` aus, anschließend wählen Sie `Image schreiben`.
+Das Programm öffnet sich. Wählen Sie Ihren USB-Stick aus, suchen Sie die Image-Datei **Giada-F105D-ImageV1-8.img** per die Schaltfläche `Image` aus, anschließend wählen Sie `Image schreiben`.
 
 ![](../../images/CONFIRE_USB_Image_Tool_Browse.png "CONFIRE USB Image Tool")
 
@@ -42,7 +42,7 @@ Das Programm öffnet sich. Wählen Sie Ihren USB-Stick aus, suchen Sie die Image
 
 Es erscheint das folgende Menü:
 
-![](../../images/W10x64-Installer-Giada-F105D.jpg "Windows 10 Professional 64Bit Installer")
+![](../../images/W10x64-Installer-Giada-F105D.jpg "Windows 10 IoT 64Bit Installer")
 
 * Drücken Sie `[Eingabetaste]`, um fortzufahren.
 
