@@ -2,8 +2,7 @@
 
 Dies ist die deutsche Dokumentation zu unseren CONFIRE E-BOARD-Produkten. Die Dokumentation ist Open Source und wir haben sie mit [GitBook](https://github.com/GitbookIO/gitbook) realisiert.
 
-> ## Wichtiger Hinweis:
-> Die hier verwendete Open Source-Version von GitBook wird nicht mehr weiterentwickelt. Die aktuelle Version von GitBook ist nicht Open Source. 
+:fire: *Die hier verwendete Open Source-Version von GitBook wird nicht mehr weiterentwickelt. Die aktuelle Version von GitBook ist nicht Open Source.*
 
 ## Gitbook unter Windows installieren
 
